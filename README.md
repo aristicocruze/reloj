@@ -24,3 +24,10 @@
 
 
 ###### Enjoy ;)
+
+###### pendiente:
+- Registrar ausencias por tipo. (Teletrabajo)
+- Actualmente registra la jornada de trabajo del dia de hoy, poder registrar por rangos (Validando los fines de semana entre esos rangos).
+
+
+
