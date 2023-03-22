@@ -4,8 +4,9 @@
   "description": "Fill the current working day with your personio entries",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "gen": "npx playwright codegen https://cobasam.personio.de/"
+    "start": "node startWatch.js",
+    "stop": "node stopWatch.js",
+    "gen": "npx playwright codegen https://www.relojlaboral.com/login.php"
   },
   "keywords": [],
   "author": "",
